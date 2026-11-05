@@ -50,16 +50,14 @@ I'm an Informatics Engineering student at **Universitas Darussalam Gontor**, pas
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=najwathahira-maker&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=B98296&icon_color=E8A1B8&text_color=765565&border_color=FCE4EC" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najwathahira-maker&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=B98296&text_color=765565&border_color=FCE4EC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=najwathahira-maker&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=B98296&icon_color=E8A1B8&text_color=765565" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najwathahira-maker&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=B98296&text_color=765565" width="48%" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=najwathahira-maker&hide_border=true&background=FFF7FA&stroke=F8BBD0&ring=E8A1B8&fire=D98BAA&currStreakNum=765565&sideNums=765565&currStreakLabel=B98296&sideLabels=B98296&dates=B98296" />
-</p>
 
 ---
 
